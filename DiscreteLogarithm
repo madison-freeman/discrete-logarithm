@@ -14,7 +14,7 @@ such that h = g^x where 1 <= x <= 2^40
 *and the output is (x).
 
 */
-class ProgrammingAssignment5 {
+class DiscreteLogarithm {
 // Iterative Function to calculate (x ^ y)%p in O(log y)
 
 static int powmod(int x, int y, int p) {
